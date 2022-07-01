@@ -1,3 +1,7 @@
 # Trabajo_integrador
 
-https://linksharing.samsungcloud.com/bJfiIRWM9w1t
+El programa le permitira 
+Añadir Contactos
+Buscar Contactos
+Modificar Contactos
+Eliminar contactos
